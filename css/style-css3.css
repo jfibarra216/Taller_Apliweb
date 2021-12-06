@@ -5,8 +5,12 @@
     margin: 10px auto;
     padding: 20px;
     text-align: center;
+
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
 }
 
 #span-title {
-    font: bold 36px verdana, sans-serif; 
+    font: bold 36px verdana, sans-serif;
 }
